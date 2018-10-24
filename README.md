@@ -5,14 +5,14 @@
 ### Chương 1: Google Rankbrain: 1 sự giải thích 1 cách trực quan
 Google RankBrain là gì?
 
-RankBrain là 1 thuật toàn học máy (AI) mà Google sử dụng để sắp xếp các kết quả tìm kiếm. Nó cũng giúp Google xử lý và hiểu được các truy vấn tìm kiếm
+RankBrain là 1 thuật toán học máy (AI) mà Google sử dụng để sắp xếp các kết quả tìm kiếm. Nó cũng giúp Google xử lý và hiểu được các truy vấn tìm kiếm
 
 Vậy: điều gì tạo nên sự khác biệt cho RankBrain?
 
-Trước RankBrain, 100% các thuật toàn của Google là code tay. Vì vậy quá trình xử lý nó sẽ trông như thế này đây:
+Trước RankBrain, 100% các thuật toán của Google là code tay. Vì vậy quá trình xử lý nó sẽ trông như thế này đây:
 
 
-Tất nhiên là các kĩ sư con người vẫn làm việc trên các thuật toán. Nhưng  giờ đấy, RankBrain sẽ thực hiện công việc của nó ở đằng sau.
+Tất nhiên là các kĩ sư con người vẫn làm việc trên các thuật toán. Nhưng giờ đây, RankBrain sẽ thực hiện công việc của nó ở đằng sau.
 
 Nói 1 cách ngắn gọn, RankBrain sẽ tự điều chính thuật toán của chính mình.
 
@@ -51,7 +51,8 @@ Ví dụ, bạn tìm kiếm "the grey console developed by Sony Google sẽ tìm
 Ngày này, RankBrain thực sự hiểu bạn đang hỏi điều gì. Và nó sẽ cung cấp các tập kết quả chính xác 100%:
 
 
-Không tệ.
+Không tệ lắm nhỉ.
+
 Vậy thay đổi ở đây là gì? Trước đây, Google cố gắng ghép các từ  trong cấu truy vấn tìm kiếm với các từ trên 1 trang.
 
 Ngày nay, RankBrain cố gắng chỉ ra mong muốn thực sự của bạn. Bạn biết đấy, như 1 người bình thường sẽ làm.
@@ -60,7 +61,7 @@ Bằng cách nào? Bằng cách ghép các từ khóa chưa từng thấy bao gi
 
 Ví dụ, Google RankBrain có thể để ý là có nhiều người tìm kiếm cụm từ “grey console developed by Nintendo”..
 
-Và họ nhận ra rằng những người tìm kiếm từ “grey console developed by Nintendo” uốn tìm 1 tập kết quả về các bộ điều khiển trò chơi.
+Và họ nhận ra rằng những người tìm kiếm từ “grey console developed by Nintendo” muốn tìm 1 tập kết quả về các bộ điều khiển trò chơi.
 
 Vì vậy khi có ai đó tìm kiếm cụm từ “grey console developed by Nintendo”, RankBrain sẽ đưa cho họ cùng 1 kết quả với những từ khóa đã biết(“grey console developed by Nintendo”.)
 
@@ -92,9 +93,9 @@ Vậy RankBrain thực sự theo dõi cái gì?
 
 Nó sẽ để ý rất kĩ đến cách mà bạn tương tác với các kết quả tìm kiếm. Đặc biệt nó sẽ xem sét các yếu tố:
 Organic Click-Through-Rate 
-Dwell Time
-Bounce Rate
-Pogo-sticking
+Thời gian sống 
+Tỉ lệ thoát 
+tỉ lệ quay lại trang
 
 Đây được biết đến là những dấu hiệu về trải nghiệm người dùng ( UX signals)
 
@@ -102,10 +103,10 @@ Hãy xem 1 ví dụ:
 
 Bạn bị dãn cơ lưng khi chơi tennis. Vì thế bạn tìm kiếm "pulled back muscle" trên Google.
 
-Như hầu hết mọi người, bạn sẽ click vào kết quả đầu tiên. Thật không may,  lời giới thiệu vô cùng hỗn độn (“Your back is an important muscle group…”).
+Như hầu hết mọi người, bạn sẽ click vào kết quả đầu tiên. Thật không may,  phần mở đầu có nội dung ngoài lề (“Lưng của bạn là một nhóm cơ quan trọng...”).
 
 Vì vậy bạn ấn nút quay lại và xem kết quả thứ 2. 
-Trang này cũng không tốt hơn. Nó toàn các lời khuyên chung chung như "nghỉ ngơi và làm lạnh lưng của bạn".
+Trang này cũng không tốt hơn. Nó toàn các lời khuyên chung chung như "nghỉ ngơi và chườm đá lưng của bạn".
 
 Vì vậy bạn ấn vào nút back trình duyệt 1 lần nữa và ấn vào kết quả thứ 3.
 
