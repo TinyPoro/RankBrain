@@ -120,3 +120,69 @@ Nếu Google để ý người dùng rời trang nhanh chóng để click vào k
 Và nếu Google đẻ ý nhiều người Dừng pogo-sticking trên 1 kết quả  tìm kiếm, họ sẽ tăng điểm trang đó để khiên nó dễ tìm kiếm hơn.
 
 Tôi sẽ đề cập nhiều hơn đến việc tối ưu UX signals ở Chương 4 và 5. Nhưng bây giờ tôi sẽ cho bạn xem cách RankBrain thay đổi công việc nghiên cứu từ khóa .
+## Chương 3: Nghiên cứu từ khóa trong Thế Giới RankBrain
+Như các bạn đã thấy, Google giờ đã có thể hiểu được những ý định đằng sau 1 từ khóa.
+Vậy liệu rằng những cách nghiên cứu từ khóa truyền thống sẽ lỗi thời?
+Không hề!
+Nó có nghĩa là ban có thể cần phải điều chỉnh quá trình nghiên cứu từ khóa của bạn để thân thiện với RankBrain hơn.
+
+Và đây là cách:
+
+##  Loại bỏ những từ khóa dài (Chúng đã lỗi thời rồi)
+
+Những từ khóa dài đã chết rồi
+Quay trở về ngày tháng mà chúng ta tạo hàng trăm các trang khác nhau... với mỗi trang đều được tối ưu xoay quanh 1 từ khóa khác nhau.
+Ví dụ, bạn tạo 1 trang được tối ưu cho "best keyword research tool". Và 1 trang khác tối ưu cho "best tool for keyword research"
+
+Và Google cũ sẽ xếp hạng chúng dựa theo những từ khóa dài tương ứng của chúng.
+Ngày nay, RankBrain hiểu rằng những cụm từ này đơn thuần chỉ là 1. Vì vậy chúng hiển thị những kết quả tìm kiếm gần như tương tự nhau.
+Nói 1 cách ngắn gọn, việc tối ưu những từ khóa dài không có nghĩa gì nữa.
+Vậy chúng ta nên làm gì thay thế? Cứ đọc tiếp đi...
+
+
+## Tối ưu xung quanh những từ khóa có độ dài trung bình
+Thay vì những từ khóa dài, tôi khuyên bạn nên tối ưu nội dung xung quanh những từ khóa có độ dài trung bình.
+Những từ khóa có độ dài trung bình là những cụm từ trung bình. Chúng nó lượng tìm kiếm nhiều hơn những từ khóa dài trung bình của bạn. Nhưng chúng lại không quá khó để cạnh tranh.
+Ví dụ, đây là 1 tập các từ khóa xung quanh chủ đề "Paleo Diet". Các cụm từ ở giữa là những từ khóa có độ dài trung bình.
+Khi bạn tối ưu trang của bạn xung quanh 1 từ khóa độ dài trung bình ( và khiến trang web đó trở nên tuyệt vời). RankBrain sẽ tự động xếp hạng bạn cho cụm từ đó... và hàng nghìn những từ khóa tương tự.
+Nói 1 cách ngắn gọn, tôi khuyên bạn nên tối ưu trang của bạn xung quanh 1 từ khóa đơn.
+(Hãy đảm bảo đó là 1 từ khóa có độ dài trung bình)
+Sau đó, hãy để RankBrain xếp hạng trang đơn của bạn với nhiều từ khóa khác liên quan
+Vậy 1 ví dụ về quá trình này trong thực tế thì sao?
+## 1 ví dụ về việc nghiên cứu từ khóa và SEO On-Page trong thế giới RankBrain
+1 thời gian trước tôi đã quyết định sẽ viết review về tất cả các công cụ SEO tôi đã sử dụng.
+
+Kết quả là? SEO Tools: Danh sách hoàn thiện.
+
+Do nội dung của tôi cung cấp 1 lượng lớn giá trị trên từng trang đơn, nó được xếp hàng trong top 5 với từ khóa đích (độ dài trung bình) của tôi: SEO Tools.
+Nhưng quan trong hơn đó là, RankBrain hiểu rằng trang web của tôi nói về các khái niệm như "SEO Tools", "phần mềm SEO", "các công cụ nghiên cứu từ khóa" vân vân
+Đó là lí do tại sao trang đơn này được xếp hạng cho 1800 từ khóa khác nhau (dựa theo SEMrush): Đó là sức mạnh của việc tối ưu nội dung hấp dẫn xung quanh 1 từ khóa đơn có độ dài trung bình.
+## Chương 4: Làm thế nào để tối ưu tiêu đề và các tag description cho CTR
+Như bạn đã thấy ở chương 1, CTR tự nhiên là 1 dấu hiệu xếp hạng quan trọng của RankBrain
+Câu hỏi đặt ra là: làm thế nào để bạn có thể làm cho người khác click vào kết quả của bạn?
+
+The question is: how can you get people to click on your result?
+
+Well, that’s exactly what I’m going to cover in this chapter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
