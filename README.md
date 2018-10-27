@@ -160,12 +160,61 @@ Nhưng quan trong hơn đó là, RankBrain hiểu rằng trang web của tôi n�
 ## Chương 4: Làm thế nào để tối ưu tiêu đề và các tag description cho CTR
 Như bạn đã thấy ở chương 1, CTR tự nhiên là 1 dấu hiệu xếp hạng quan trọng của RankBrain
 Câu hỏi đặt ra là: làm thế nào để bạn có thể làm cho người khác click vào kết quả của bạn?
+Đúng rồi, đó chính xác những gì tôi muốn làm rõ trong chương này
 
-The question is: how can you get people to click on your result?
+## Thêm cảm xúc vào các tag Tiêu đề 
+Không còn nghi ngờ gì nữa: các tiêu đề có cảm xúc sẽ có nhiều lượt click hơn.
+Đây là điều mà những người viết quảng cáo đã biết vài năm nay rồi. Và trong những năm gần đây, những dữ liệu cho thấy ý tưởng này đang dần quay trở lại. Trong thực tế, CoSchedule tìm thấy 1 sự liên quan rất rõ rệt giữa  những tiêu đề có cảm xúc cao với những chia sẻ trên mạng xã hội.
+Giá trị của cảm xúc
+Ví dụ, đây là 1 tag tiêu đề được tối ưu SEO 1 cách cơ bản.
 
-Well, that’s exactly what I’m going to cover in this chapter.
+#### Productivity Tips: How to Get More Done
+không tệ. Nhưng nó có vẻ còn thiếu 1 vài thứ để thúc đẩy mọi người click vào nó.
+Đây là cách bạn có thể biến tag tiêu đề trên thành 1  thứ có nhiều cảm xúc hơn ( mà vẫn giữ nó thân thiện với SEO)
 
+#### Crush Your To-Do List With These 17 Productivity Tips
 
+Không phải lúc nào việc tạo ra những tiêu đề với nhiều cảm xúc sẽ đem lại hiệu quả. Nhưng bạn nên làm bất cứ khi nào có thể.
+
+## Thêm các cặp dấu ngoặc vào cuối tiêu đề của bạn
+Đây là 1 trong những cách ưa thích để hack CTR mà tôi luôn sử dụng
+Đầu tiên tôi khám phá ra mẹo này từ 1 bài nghiên cứu HubSpot và Outbrain đã thực hiện vài năm trước
+Trong nghiên cứu đó, họ đã phân tích 3.3 triệu tiêu đề. Và họ thấy rằng những  tiêu đề  có dấu ngoặc hiệu quả hơn không có khoảng 33%
+Trong thực tế, chiến lược nhỏ này hiệu quả đến mức tôi thêm các dấu ngoặc trong hầu hết các tiêu đề của tôi
+
+## Sử dụng các con số (và không chỉ trong các List Posts)
+Các dữ liệu từ 1 vài nguồn ( bao gồm BuzzSumo ) là tương đối rõ ràng: các con số sẽ cải thiện thông số CTR.
+Vậy phần tuyệt nhất ở đây là gì?
+Bạn có thể sự dụng các con số trong tiêu đề của bạn... thậm chi ngay cả khi nội dung không phải là list post.
+Ví dụ, năm ngoái tôi đã đưa ra nghiên cứu này:
+Như bạn có thể thấy, tôi đã thêm không chỉ 1, và 2 con số vào trong tiêu đề.
+
+##  Phân đều các từ ngữ mạnh vào trong các tag tiêu đề 
+Những từ ngữ mạnh là những cụm từ có những thể hiện cảm xúc 1 cách mạnh mẽ.
+Như bạn đoán thôi: việc sử dụng những từ ngữ mạnh sẽ giúp tiêu đề có bạn nổi bật và có nhiều click hơn.
+Dưới đây là danh sách 1 vài từ ngữ mạnh mà tôi luôn ưa thích sử dụng    
+
+Effective
+Insane
+That Will Case Study
+Examples
+Proven Study
+New
+Powerful
+
+## Đừng quên tối ưu tag Description của bạn để cải thiện CTR
+Đúng vậy các thể description không trực tiếp giúp cho việc sEO. Tôi đã nhận ra việc 1 thẻ description được tôi ưu có thể cải thiện CTR của bạn 1 cách ghê gớm.
+ĐÂy là cách mà tôi tạo 1 tag description mà có kết quả:
+
+1 Đầu tiên hay làm cho nó có cảm xúc. 
+Cũng giống như 1 tag tiêu đề, bạn muốn tag description của bạn có  1 chút cảm xúc trong đó.
+Đây là 1 ví dụ.
+2 Tiếp đó, cho người ta biết lí do mà họ nên click vào kết quả của bạn?
+Liệu kết quả của bạn có  sự bao quát không? Liệu nó dựa trên nghiên cứu chứ? Liệu nó hài hước không? Hãy để điều đó trong mô tả của bạn
+3 Sau đó copy các từ và cụm từ và các quảng cáo trả phí ( AdWords) sử dụng.
+Ví dụ khi tôi tìm "bone broth" tôi thấy những cụm từ này xuất hiện trong 2 bài quảng cáo
+4.Cuối cùng, thêm từ khóa đích của bạn.
+Google sẽ bôi đậm nó, và khiến kết quả của bạn trở nên khác biệt.
 
 
 
