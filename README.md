@@ -218,7 +218,7 @@ Google sẽ bôi đậm nó, và khiến kết quả của bạn trở nên khá
 ## Chương 5: Làm thế nào để tối ưu nội dụng nhằm cải thiện Bounch Rate (tỉ lệ thoát) và Dwell Time (Time on site)
 
 Ok, vậy là bạn đã sử dụng các mẹo cải thiện CTR của tôi. Và có nhiều người click vào kết quả của bạn hơn trước.
-Và giờ sao? Chúng ta sẽ cần phải cho Goolge biết kết quả của bạn làm cho người dùng hạnh phúc.
+Và giờ sao? Chúng ta sẽ cần phải cho Goolge biết kết quả của bạn làm cho người dùng hài lòng.
 Và các tốt nhất đề làm điều này? Cải thiện dwell time của bạn
 
 #### Google có thực sự sử dụng Dwell Time không? Có đấy!
@@ -227,8 +227,6 @@ Rõ ràng là người dùng ở trên trang của bạn càng lâu càng tốt.
 Và nếu có ai đó rời trang của bạn chỉ sau 2 giây, điều đó sẽ nói cho google kết quả này thật tệ! Hãy hạ vài điểm của nó đi.
 Vậy thật hợp lý khi RankBrain đo lường Dwell Time -  và tráo các kết quả với nhau xung quanh dấu hiệu này.
 Trong thực tế, gần đây 1 kĩ sư Google đã nói rằng Google tin tưởng 100% với các dấu hiệu off-page( đặc biệt là các backlink). Thậm chí nếu Google vẫn sử dụng backlink, người kĩ sư này đã chỉ ra rằng:
-
-And the data backs this up. When we analyzed a massive set of Google search results we found a correlation between high rankings and low bounce rate:
 
 Và dữ liệu sẽ dần tự cải thiện. Khi chúng tôi phân tích một tập hợp lớn các kết quả tìm kiếm của Google, chúng tôi đã tìm thấy mối tương quan giữa thứ hạng cao và tỷ lệ thoát thấp:
 
@@ -250,7 +248,7 @@ Và sau rất nhiều bài kiểm tra tôi đã nhận ra những câu giới th
 Tại sao?
 Khi có ai đó tìm kiếm gì đó trên Google, họ đã biết về chủ đề đó rồi. Vì vậy không cần phải giời thiệu quá dài dòng.
 Thay vào đó, sử dụng lời giời thiệu để cho người dùng biết họ sẽ đọc cái gì, như thế này:
-Khi ai đò tìm kiếm từ khóa "white hat sEO" mà đọc được dòng giới thiệu này họ sẽ nghãi " Tuyệt vời! Đây đúng là nơi tôi cần tìm"
+Khi ai đò tìm kiếm từ khóa "white hat sEO" mà đọc được dòng giới thiệu này họ sẽ nghĩ " Tuyệt vời! Đây đúng là nơi tôi cần tìm"
 
 #### 3 Đưa ra những nội dung dài, có chiều sâu
 Tôi đã thử nghiệm điều này 10 cách khác nhau vào thứ ba. Và tôi có thể khẳng định với bạn rằng:
@@ -262,8 +260,8 @@ Và kết quả đầu tiên bạn click vào là 1 bài viết 300 từ. Nó nh
 Vì vậy bạn click vào nút back để tìm thứ gì đó tốt hơn( và bạn còn nhớ không, Google gọi đây là Pogo sticking)
 Và lần này hit the jackpot
 Bạn tìm được 1 bài hướng dẫn  toàn diện và có mội thứ bạn cần biết về chạy 1 cuộc marathon.
-Vì vậy bạn lấy 1 cốc caphe và đọc bài hướng dẫn từ đầu đến cuối. Bạn thậm chó còn đọc lại từng phần. Việc đọc thể này sẽ cải thiển đáng kể Dwell Time.
-Các nội dung cáu trúc dài cũng rất hiệu quả khi tôi chỉ định xuất bản các bài viết có ít nhất 2000 từ.
+Vì vậy bạn lấy 1 cốc cà phê và đọc bài hướng dẫn từ đầu đến cuối. Bạn thậm chí nên đọc lại từng phần. Việc đọc thể này sẽ cải thiện đáng kể Dwell Time.
+Các nội dung cấu trúc dài cũng rất hiệu quả khi tôi chỉ định xuất bản các bài viết có ít nhất 2000 từ.
 
 #### 4 Chia nhỏ nội dung thành các phần kích thước nhỏ.
 Sự thật là:
