@@ -43,8 +43,8 @@ Hãy làm rõ từng phần dưới đây.
 1 vài năm trước, Google có 1 vấn đề như sau:
 15% từ khóa người dùng gõ trên Google chưa từng được thấy trước đó.
 15% có vẻ không nhiều lắm. Nhưng khi bạn xử lý hàng tỉ tìm kiếm mỗi ngày, nó tương đương với 450 triệu từ khóa trên Google mỗi ngày.
-Trước khi có RankBrain, Google sẽ duyệt các trạng để tìm xem nó có chưa chính xác từ khóa mà ai đó tìm kiếm hay không.
-Nhưng bởi vì những từ khóa này hn toàn mới, Google không thể nào biết được người tìm kiếm thực sự muốn gì. Vì vậy họ phải đoán.
+Trước khi có RankBrain, Google sẽ duyệt các trạng để tìm xem nó có chứa chính xác từ khóa mà ai đó tìm kiếm hay không.
+Nhưng bởi vì những từ khóa này hoàn toàn mới, Google không thể nào biết được người tìm kiếm thực sự muốn gì. Vì vậy họ phải đoán.
 Ví dụ, bạn tìm kiếm "the grey console developed by Sony Google sẽ tìm các trang chứa từ "grey", "console", "developed" và "Sony."
 
 
@@ -60,11 +60,15 @@ Bằng cách nào? Bằng cách ghép các từ khóa chưa từng thấy bao gi
 
 Ví dụ, Google RankBrain có thể để ý là có nhiều người tìm kiếm cụm từ “grey console developed by Nintendo”..
 
-Và họ nhận ra rằng những người tìm kiếm từ “grey console developed by Nintendo” uốn tìm 1 tập kết quả về các bộ điều khiển trò chơi.
+Và họ nhận ra rằng những người tìm kiếm từ “grey console developed by Nintendo” muốn tìm 1 tập kết quả về các bộ điều khiển trò chơi.
 
-Vì vậy khi có ai đó tìm kiếm cụm từ “grey console developed by Nintendo”, RankBrain sẽ đưa cho họ cùng 1 kết quả với những từ khóa đã biết(“grey console developed by Nintendo”.)
+Vì vậy khi có ai đó tìm kiếm cụm từ “grey console developed by Sony”, RankBrain sẽ đưa cho họ cùng 1 kết quả với những từ khóa đã biết(“grey console developed by Nintendo”.)
 
 Vì vậy nó sẽ hiển thị kết quả về các bộ điều khiển. Ở trường hợp này là PlayStation.
+
+Một ví dụ: một thời gian trước khi Google công bố một bài đăng trên blog cách mà họ sử dụng máy móc để học cách hiểu rõ hơn về ý định của người tìm kiếm:
+
+Trong bài viết này họ miêu tả một công nghệ được gọi là “Word2vec” biến từ khóa thành khái niệm
 
 Để rõ hơn, Google nói rằng kỹ thuật này hiểu rằng Paris và nước Pháp liên quan với nhau như là Berlin với Đức vậy ( thủ đô và đất nước), và không giống như là Madrid với Italy.
 
@@ -117,7 +121,7 @@ Việc quay lại lại được gọi là "Pogo-sticking". Và đó cũng là 1
 
 Nếu Google để ý người dùng rời trang nhanh chóng để click vào kết quả khác, nó sẽ gửi 1 thống điệp đến Google:  Trang này thật kinh tởm!
 
-Và nếu Google đẻ ý nhiều người Dừng pogo-sticking trên 1 kết quả  tìm kiếm, họ sẽ tăng điểm trang đó để khiên nó dễ tìm kiếm hơn.
+Và nếu Google đẻ ý nhiều người Dừng pogo-sticking trên 1 kết quả  tìm kiếm, họ sẽ tăng điểm trang đó để khiến nó dễ tìm kiếm hơn.
 
 Tôi sẽ đề cập nhiều hơn đến việc tối ưu UX signals ở Chương 4 và 5. Nhưng bây giờ tôi sẽ cho bạn xem cách RankBrain thay đổi công việc nghiên cứu từ khóa .
 ## Chương 3: Nghiên cứu từ khóa trong Thế Giới RankBrain
